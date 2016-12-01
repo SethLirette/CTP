@@ -1,7 +1,7 @@
 Package: CTP
 Title: Creates Perfusion Map from Computed Tomography Perfusion Data
 Version: 1.0.0.0
-Authors@R: person("Seth", "Lirette", email = "slirette2@umc.com", role = c("aut", "cre"))
+Authors@R: person("Seth", "Lirette", email = "slirette2@umc.edu", role = c("aut", "cre"))
 Description: This function generates a perfusion map of cerebral blood flow. It should be used for research and illustrative purposes only and should NOT be used to diagnose/treat any disease.
 Depends:
     R (>= 3.3.0)
